@@ -47,8 +47,8 @@ This command is used to construct the Steel02M uniaxial steel material, a modifi
 
 
 .. admonition:: Example
-
-   The following example constructs a `Steel02M` material using all material parameters.
+ 
+   The following example constructs a ``Steel02M`` material using all material parameters. For additional examples and implementation details, see `Steel02M GitHub repository <https://github.com/Kolay-IITK/Steel02M>`_.
 
    .. code-block:: tcl
 
